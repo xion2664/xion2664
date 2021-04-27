@@ -8,7 +8,7 @@
 
 *Tech Stack*
 
-<img src="https://img.shields.io/badge/-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://github.com/xion2664/icons/blob/main/palmtree_vaporwave.gif" width="30px">
 
 #
 
