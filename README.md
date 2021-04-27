@@ -1,4 +1,4 @@
-![xion](https://capsule-render.vercel.app/api?type=rect&height=200&text=xion!&fontAlign=70&fontAlignY=30&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=xion!&fontAlign=70&fontAlignY=30&color=gradient)
 
 <img src="https://github.com/xion2664/xion2664/blob/main/original.gif" width="150px">
 
@@ -16,4 +16,4 @@
 
 ![xion's GitHub stats](https://github-readme-stats.vercel.app/api?username=xion2664&theme=midnight-purple&show_icons=true)
 
-![xion](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=70&fontAlignY=30&color=gradient)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=70&fontAlignY=30&color=gradient&section=footer)
