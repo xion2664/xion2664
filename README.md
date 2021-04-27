@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=100&text=xion&fontAlign=95&fontAlignY=25&color=9d10f9&animation=twinkling&fontSize=20&fontColor=ffffff)
 
 <img src="https://github.com/xion2664/icons/blob/main/palmtree_vaporwave.gif" width="150px">
+
 > *amateur developer*
 
 # 
@@ -14,6 +15,10 @@
 *Design Stack* ✏
 
 <img src="https://github.com/xion2664/icons/blob/main/adobe%20photoshop.png" width="30px">  ·  <img src="https://github.com/xion2664/icons/blob/main/adobe%20xd.png" width="30px">  ·  <img src="https://github.com/xion2664/icons/blob/main/adobe%20premiere.png" width="30px">  ·  <img src="https://github.com/xion2664/icons/blob/main/adobe%20illustrator.png" width="30px">
+
+#
+
+를 잘하고싶다
 
 #
 
