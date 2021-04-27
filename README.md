@@ -24,4 +24,6 @@
 
 ![xion's GitHub stats](https://github-readme-stats.vercel.app/api?username=xion2664&theme=midnight-purple&show_icons=true)
 
+*수정만 오지게 했더니 커밋이 135;;*
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=100&fontAlign=70&fontAlignY=30&color=ff11ad&section=footer)
