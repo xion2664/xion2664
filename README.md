@@ -15,7 +15,7 @@
 *Design Stack*
 
 <img src="https://github.com/xion2664/icons/blob/main/adobe%20photoshop.png" width="30px"> · <img src="https://github.com/xion2664/icons/blob/main/adobe%20xd.png" width="30px"> · 
-<img src="https://github.com/xion2664/icons/blob/main/adobe%20premiere.png" width="30px">
+<img src="https://github.com/xion2664/icons/blob/main/adobe%20premiere.png" width="30px"> · <img src="https://github.com/xion2664/icons/blob/main/adobe%20illustrator.png" width="30px">
 
 #
 
