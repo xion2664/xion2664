@@ -1,8 +1,8 @@
-# <img src="https://github.com/xion2664/xion2664/blob/main/original.gif" width="150px">
+<img src="https://github.com/xion2664/xion2664/blob/main/original.gif" width="150px">
 
 > *amateur developer*
 
-__
+# 
 
 *Tech Stack*
 
