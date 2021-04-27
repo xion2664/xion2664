@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=100&text=xion&fontAlign=80&fontAlignY=30&color=gradient&animation=twinkling&fontSize=10)
+![header](https://capsule-render.vercel.app/api?type=waving&height=100&text=xion&fontAlign=80&fontAlignY=30&color=gradient&animation=twinkling&fontSize=20)
 
 <img src="https://github.com/xion2664/xion2664/blob/main/original.gif" width="150px">
 
