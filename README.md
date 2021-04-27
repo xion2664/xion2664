@@ -8,7 +8,7 @@
 
 *Tech Stack* 🔧
 
-<img src="https://github.com/xion2664/icons/blob/main/c.png" width="30px">  *&*  <img src="https://github.com/xion2664/icons/blob/main/c%2B%2B.svg" width="30px">  ·  <img src="https://github.com/xion2664/icons/blob/main/java.png" width="30px">  ·  <img src="https://github.com/xion2664/icons/blob/main/python.png" width="30px">  ·  <img src="https://github.com/xion2664/icons/blob/main/html5.png" width="30px">  ·  <img src="https://github.com/xion2664/icons/blob/main/css3.png" width="30px">  ·  <img src="https://github.com/xion2664/icons/blob/main/js.png" width="30px">  ·  <img src="https://github.com/xion2664/icons/blob/main/mysql.png" width="70px">  ·  <img src="https://github.com/xion2664/icons/blob/main/opengl.png" height="30px">
+<img src="https://github.com/xion2664/icons/blob/main/c.png" width="30px">  *&*  <img src="https://github.com/xion2664/icons/blob/main/c%2B%2B.svg" width="30px">  *&*  <img src="https://github.com/xion2664/icons/blob/main/java.png" width="30px">  *&*  <img src="https://github.com/xion2664/icons/blob/main/python.png" width="30px">  *&*  <img src="https://github.com/xion2664/icons/blob/main/html5.png" width="30px">  *&*  <img src="https://github.com/xion2664/icons/blob/main/css3.png" width="30px">  *&*  <img src="https://github.com/xion2664/icons/blob/main/js.png" width="30px">  *&*  <img src="https://github.com/xion2664/icons/blob/main/mysql.png" width="70px">  *&*  <img src="https://github.com/xion2664/icons/blob/main/opengl.png" height="30px">
 
 #
 
