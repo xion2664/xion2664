@@ -1,4 +1,4 @@
-# xion ![xion](original.gif) &nbsp;<img src="https://github.com/xion2664/xion2664.original.gif" width="30px">
+# xion ![xion](original.gif) &nbsp;<img src="https://github.com/xion2664/xion2664/original.gif" width="30px">
 
 <!--
 **xion2664/xion2664** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
