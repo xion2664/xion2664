@@ -8,13 +8,13 @@
 
 *Tech Stack* 🔧
 
-<img src="https://github.com/xion2664/icons/blob/main/c.png" width="30px">  .  <img src="https://github.com/xion2664/icons/blob/main/c%2B%2B.svg" width="30px">  .  <img src="https://github.com/xion2664/icons/blob/main/java.png" width="30px">  .  <img src="https://github.com/xion2664/icons/blob/main/python.png" width="30px">  .  <img src="https://github.com/xion2664/icons/blob/main/html5.png" width="30px">  .  <img src="https://github.com/xion2664/icons/blob/main/css3.png" width="30px">  .  <img src="https://github.com/xion2664/icons/blob/main/js.png" width="30px">  .  <img src="https://github.com/xion2664/icons/blob/main/mysql.png" width="70px">  .  <img src="https://github.com/xion2664/icons/blob/main/opengl.png" height="30px">
+<img src="https://github.com/xion2664/icons/blob/main/c.svg" width="30px">  .  <img src="https://github.com/xion2664/icons/blob/main/c%2B%2B.svg" width="30px">  .  <img src="https://github.com/xion2664/icons/blob/main/java.svg" width="30px">  .  <img src="https://github.com/xion2664/icons/blob/main/python.svg" width="30px">  .  <img src="https://github.com/xion2664/icons/blob/main/html5.svg" width="30px">  .  <img src="https://github.com/xion2664/icons/blob/main/css3.svg" width="30px">  .  <img src="https://github.com/xion2664/icons/blob/main/js.svg" width="30px">  .  <img src="https://github.com/xion2664/icons/blob/main/mysql.svg" width="70px">  .  <img src="https://github.com/xion2664/icons/blob/main/opengl.svg" height="30px">
 
 #
 
 *Design Stack* ✏
 
-<img src="https://github.com/xion2664/icons/blob/main/adobe%20photoshop.png" width="30px">  ·  <img src="https://github.com/xion2664/icons/blob/main/adobe%20xd.png" width="30px">  ·  <img src="https://github.com/xion2664/icons/blob/main/adobe%20premiere.png" width="30px">  ·  <img src="https://github.com/xion2664/icons/blob/main/adobe%20illustrator.png" width="30px">
+<img src="https://github.com/xion2664/icons/blob/main/adobe%20photoshop.svg" width="30px">  ·  <img src="https://github.com/xion2664/icons/blob/main/adobe%20xd.svg" width="30px">  ·  <img src="https://github.com/xion2664/icons/blob/main/adobe%20premiere.svg" width="30px">  ·  <img src="https://github.com/xion2664/icons/blob/main/adobe%20illustrator.svg" width="30px">
 
 #
 
