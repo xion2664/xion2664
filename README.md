@@ -1,4 +1,4 @@
-# <img src="https://github.com/xion2664/xion2664/blob/main/original.gif" width="100px">
+# <img src="https://github.com/xion2664/xion2664/blob/main/original.gif" width="150px">
 
 *contact me :*
 
