@@ -8,8 +8,6 @@
 
 *Tech Stack*
 
-___
-
 <img src="https://img.shields.io/badge/-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 *Design Stack*
