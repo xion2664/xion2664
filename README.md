@@ -3,7 +3,7 @@
 > *amateur developer*
 
 ___
-<div>
+<div/>
 
 *Tech Stack*
 
