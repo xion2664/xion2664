@@ -8,7 +8,7 @@
 
 *Tech Stack* 🔧
 
-<img src="https://github.com/xion2664/icons/blob/main/c.svg" width="30px">  .  <img src="https://github.com/xion2664/icons/blob/main/c%2B%2B.svg" width="30px">  .  <img src="https://github.com/xion2664/icons/blob/main/java.svg" width="30px">  .  <img src="https://github.com/xion2664/icons/blob/main/python.svg" width="35px">  .  <img src="https://github.com/xion2664/icons/blob/main/html5.svg" width="40px">  .  <img src="https://github.com/xion2664/icons/blob/main/css3.svg" width="30px">  .  <img src="https://github.com/xion2664/icons/blob/main/javascript.svg" width="30px">  .  <img src="https://github.com/xion2664/icons/blob/main/unity.png" width="30px">  .  <img src="https://github.com/xion2664/icons/blob/main/mysql.svg" width="30px">  .  <img src="https://github.com/xion2664/icons/blob/main/opengl.svg" height="30px">
+<img src="https://github.com/xion2664/icons/blob/main/c.svg" width="30px" />  .  <img src="https://github.com/xion2664/icons/blob/main/c%2B%2B.svg" width="30px">  .  <img src="https://github.com/xion2664/icons/blob/main/java.svg" width="30px">  .  <img src="https://github.com/xion2664/icons/blob/main/python.svg" width="35px">  .  <img src="https://github.com/xion2664/icons/blob/main/html5.svg" width="40px">  .  <img src="https://github.com/xion2664/icons/blob/main/css3.svg" width="30px">  .  <img src="https://github.com/xion2664/icons/blob/main/javascript.svg" width="30px">  .  <img src="https://github.com/xion2664/icons/blob/main/unity.png" width="30px">  .  <img src="https://github.com/xion2664/icons/blob/main/mysql.svg" width="30px">  .  <img src="https://github.com/xion2664/icons/blob/main/opengl.svg" height="30px">
 
 #
 
